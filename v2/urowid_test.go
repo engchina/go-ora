@@ -2,9 +2,9 @@ package go_ora
 
 import (
 	"encoding/hex"
-	"github.com/sijms/go-ora/v2/converters"
-	"github.com/sijms/go-ora/v2/network"
-	"github.com/sijms/go-ora/v2/trace"
+	"github.com/engchina/go-ora/v2/converters"
+	"github.com/engchina/go-ora/v2/network"
+	"github.com/engchina/go-ora/v2/trace"
 	"log"
 	"strings"
 	"testing"

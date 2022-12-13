@@ -2,7 +2,7 @@ package advanced_nego
 
 import (
 	"errors"
-	"github.com/sijms/go-ora/network"
+	"github.com/engchina/go-ora/network"
 )
 
 type AdvancedNegoComm struct {
